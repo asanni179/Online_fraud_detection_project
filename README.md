@@ -1,0 +1,1 @@
+This Python-based Online Fraud Detection Program is designed to identify and prevent fraudulent activities in online transactions. The program utilizes machine learning algorithms to analyze various features of transactions and make predictions about their legitimacy. The user interface is built using Streamlit, providing an interactive and user-friendly experience.
